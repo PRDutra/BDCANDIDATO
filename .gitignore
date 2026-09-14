@@ -1,0 +1,42 @@
+*.dcu
+*.dproj.local
+*.identcache
+*.dsk
+*.stat
+*.map
+*.rsm
+*.tvsconfig
+__history/
+__recovery/
+compilacao.png
+
+# Delphi compilados
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.tds
+
+# Delphi temporários e backups
+*.~*
+*.bak
+*.tmp
+*.local
+*.identcache
+*.stat
+*.projdata
+
+# Pastas de build
+Win32/
+Win64/
+Debug/
+Release/
+
+# Histórico/arquivos internos do Delphi
+__history/
+ModelSupport/
+
+# VS Code
+.vscode/
